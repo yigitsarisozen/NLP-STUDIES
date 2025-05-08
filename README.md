@@ -71,3 +71,10 @@ Then open the notebook you prefer and run all cells in order.
 [GitHub Profile](https://github.com/yigitsarisozen)
 
 Feel free to open an issue or a pull request if you have questions or suggestions!
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
