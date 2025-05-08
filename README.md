@@ -28,8 +28,8 @@ in both **English** and **Turkish** using **Jupyter Lab**.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yigit_sarisozen/nlp-sentiment-notebooks.git
-cd nlp-sentiment-notebooks
+git clone https://github.com/yigitsarisozen/NLP-STUDIES
+cd NLP-STUDIES
 ```
 
 ### 2️⃣ Install dependencies
